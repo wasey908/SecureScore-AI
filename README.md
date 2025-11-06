@@ -111,8 +111,13 @@ fraud-risk-system/
 
 ---
 ## TO RUn
-- (venv) D:\SecureScoreAI\backend>uvicorn app.main:app --reload --host 0.0.0.0 --port 8001
-- D:\SecureScoreAI\frontend>npm start
+- cd D:\SecureScoreAI\backend
+venv\Scripts\activate
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8001
+
+
+- cd frontend
+npm start
 
 http://127.0.0.1:8001/docs#/
 ## Setup Instructions
