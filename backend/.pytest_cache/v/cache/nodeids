@@ -1,0 +1,12 @@
+[
+  "app/tests/test_api.py::test_analytics_endpoint",
+  "app/tests/test_api.py::test_health_check",
+  "app/tests/test_api.py::test_predict_endpoint_structure",
+  "app/tests/test_api.py::test_predict_invalid_payload",
+  "app/tests/test_api.py::test_predict_negative_amount",
+  "app/tests/test_api.py::test_sample_transactions",
+  "app/tests/test_ml.py::test_feature_engineer_initialization",
+  "app/tests/test_ml.py::test_feature_engineering",
+  "app/tests/test_ml.py::test_feature_names",
+  "app/tests/test_ml.py::test_prepare_features"
+]

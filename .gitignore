@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Backend data
+data/raw/
+data/processed/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+
+# Env / secrets
+.env
+backend/.env
+frontend/.env
+
+# VSCode / OS
+.vscode/
+.DS_Store
+
+# Docker logs
+*.log
