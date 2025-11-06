@@ -556,23 +556,6 @@ Contributions are welcome! Please follow these guidelines:
 4. Ensure all tests pass
 5. Submit a pull request
 
----
-
-## License
-
-This project is for educational and portfolio purposes. The Kaggle dataset is subject to its original license.
-
----
-
-## Contact
-
-For questions or collaboration:
-- **Project**: SecureScore AI Fraud Detection System
-- **Purpose**: Portfolio project for software engineering, AI/ML, and fintech roles
-- **Tech**: FastAPI, React, XGBoost, Docker
-
----
-
 ## Acknowledgments
 
 - **Dataset**: Credit Card Fraud Detection (Kaggle)
